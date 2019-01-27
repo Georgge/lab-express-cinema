@@ -35,7 +35,10 @@ First, we need to seed our database. Below you will find an array of objects wit
 - `models/Movie.js` for the Movie model
 - `bin/seeds.js` file inside the `bin` folder and write the code necessary to seed the database.
 
-
+To seed DataBase: 
+  1. Start project with npm
+  2. run: node bin/seed.js
+  3. Ready
 
 ```javascript
 // To insert in "bin/seeds.js"
